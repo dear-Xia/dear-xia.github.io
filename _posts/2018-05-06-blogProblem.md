@@ -1,7 +1,7 @@
 ---
-layout:post
-title:Github page jekyll搭建个人博客遇到的问题
-description:jekyll serve启动失败的一种情况
+layout: post
+title: Github page jekyll搭建个人博客遇到的问题
+description: jekyll serve启动失败的一种情况
 tag: blog
 ---
 
@@ -15,7 +15,7 @@ tag: blog
 
 
 
- 
+
 
 在本地命令行cmd下按照如下操作执行
 
