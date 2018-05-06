@@ -1,61 +1,31 @@
 # Basic
-<<<<<<< HEAD
-title: daydayup
-subtitle: 个人站
-description: 欢迎来到我的个人站~
-# 头像里面的标题
-avatarTitle: dear-xia
-# 头像里面的描述
-avatarDesc: soft-engerning
-=======
 title: HeChang
 subtitle: 个人站
 description: 欢迎来到我的个人站~
 # 头像里面的标题
 avatarTitle: dear-Xia
 # 头像里面的描述
-avatarDesc: soft-engerniing
->>>>>>> 1a84609448d23f3b0b281808946cad1583921622
+avatarDesc: soft-engineering
 url: "http://dear-xia.github.io"
 
-# Comment
-#comment:
-<<<<<<< HEAD
-    disqus: leopard
-=======
-    #disqus: leopard
->>>>>>> 1a84609448d23f3b0b281808946cad1583921622
-    # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-<<<<<<< HEAD
     #weibo: 5366874726
     github: dear-xia
     # twitter:
     #mail: leopardpan@icloud.com
-=======
     # weibo: 5366874726
     github: dear-Xia
     # twitter:
     # mail: leopardpan@icloud.com
->>>>>>> 1a84609448d23f3b0b281808946cad1583921622
 
 # 百度统计
 # 使用博客模板请去掉或者更换 id
 baidu:
     id: d89e18c2a14b1bd09d2f6a3430226293
-<<<<<<< HEAD
-
-# Google Analytics
-# 使用博客模板请去掉或者更换 id
-#ga:
-    id: UA-84134159-3
-    host: auto
-=======
 
 
->>>>>>> 1a84609448d23f3b0b281808946cad1583921622
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
@@ -89,6 +59,6 @@ nav:
 
 
 # Pagination
-gems: [jekyll-paginate,jekyll-sitemap]
+plugins: [jekyll-paginate,jekyll-sitemap]
 paginate: 20
 paginate_path: "page/:num/"
